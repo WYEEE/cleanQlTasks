@@ -18,7 +18,7 @@
 
 2、青龙面板中如下添加任务
 
-<img src="https://gitee.com/AndrewYu/PicGo/raw/master/img/image-20210820220357963.png" alt="image-20210820220357963" style="zoom:50%;" />
+<img src="https://gitee.com/AndrewYu/PicGo/raw/master/img/image-20210820224311591.png" alt="image-20210820224311591" style="zoom:50%;" />
 
 3、可以直接运行一下试试
 

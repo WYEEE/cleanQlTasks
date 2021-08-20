@@ -4,7 +4,6 @@ import os,sys
 import requests
 import time
 
-# ip="106.14.149.194"
 ip="localhost"
 
 def loadSend():
@@ -17,11 +16,6 @@ def loadSend():
             from deleteDuplicateTasksNotify import send
         except:
             print("加载通知服务失败~")
-
-
-# username="admin"
-# password="tjiVfaGNK8k-1Xqx4AkT"
-
 
 headers={
     "Accept":        "application/json",
